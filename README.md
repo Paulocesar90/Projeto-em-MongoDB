@@ -39,6 +39,6 @@ mongo
  docker-compose down
 
 ## Configurações personalizadas
-Você pode personalizar as configurações do ambiente MongoDB no arquivo docker-compose.yml. Por exemplo, você pode alterar a porta de exposição ou o volume de armazenamento.
+Você pode personalizar as configurações do ambiente MongoDB no arquivo docker-compose.yml. Por exemplo, você pode alterar a porta de exposição ou o volume de armazenamento. 
 
 
